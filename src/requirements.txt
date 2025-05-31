@@ -1,0 +1,17 @@
+appdirs==1.4.4
+confluent-kafka==2.10.0
+fastavro==1.11.1
+jiter==0.10.0
+jsonpointer==2.1
+lxml==5.2.1
+mkl-service==2.4.0
+openai==1.82.1
+protobuf==4.25.3
+py4j==0.10.9.9
+pyls-spyder==0.4.0
+PyQt5==5.15.10
+PyQtWebEngine==5.15.6
+pyspark==4.0.0
+pywin32==305.1
+setuptools==75.1.0
+wheel==0.44.0
