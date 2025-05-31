@@ -41,4 +41,9 @@ services:
       SPARK_MASTER_URL: spark://spark-master:7077
     networks:
       - code-with-yu
-      
+#
+# spark-worker-2
+#   <<: *worker...
+#
+networks:
+  work-with-yu:
